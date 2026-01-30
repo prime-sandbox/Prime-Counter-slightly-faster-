@@ -10,7 +10,8 @@ High-performance prime counting programs written in C.
   Counts the exact number of primes up to a given limit.
 
 ## Build
-gcc -O3 prime_counter.c -o prime_counter
+gcc -O3 prime_counter_benchmark.c -o prime_benchmark
+gcc -O3 prime_counter_exact.c -o prime_exact
 
 ## Notes
 This code prioritizes speed and low-level optimization over readability.
