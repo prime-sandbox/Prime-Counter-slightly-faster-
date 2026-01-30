@@ -1,2 +1,2 @@
 # Prime-Counter-slightly-faster-
-A reasonably fast prime number counter written in C
+A slightly faster prime number counter written in C
